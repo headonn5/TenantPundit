@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>is_update_available</key>
+	<false/>
+	<key>app_about</key>
+	<string>The Tenant Pundits are the ones who possess relevant knowledge and experience of the house and the locality where they have lived for a considerable period of time. They love to share their experience with everyone and help the seekers find their ideal home. They pass their legacy to these seekers who eventually become Tenant Pundits in the future. Congratulations on being the Tenant Pundit.</string>
+	<key>app_about_male</key>
+	<string>A Tenant Pundit is the one who possesses relevant knowledge and experience of the house and the locality where he has lived for a considerable period of time. He loves to share his experience with everyone and help the seekers find their ideal home. He passes his legacy to these seekers who eventually become Tenant Pundits in the future. Congratulations on being the Tenant Pundit.</string>
+	<key>app_about_female</key>
+	<string>A Tenant Pundit is the one who possesses relevant knowledge and experience of the house and the locality where she has lived for a considerable period of time. She loves to share her experience with everyone and help the seekers find their ideal home. She passes her legacy to these seekers who eventually become Tenant Pundits in the future. Congratulations on being the Tenant Pundit.</string>
+	<key>app_itunes_id</key>
+	<string>id1353783399</string>
+</dict>
+</plist>
